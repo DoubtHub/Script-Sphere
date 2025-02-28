@@ -6,3 +6,5 @@ var address = "M.H. Street"
 
 cityName = "Kolkata"
 let stateName;
+
+console.log(typeof());
