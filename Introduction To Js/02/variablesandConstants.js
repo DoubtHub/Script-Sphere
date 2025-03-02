@@ -1,10 +1,23 @@
 //constant
 const id = 12
 
-let userName = "fahim"
-var address = "M.H. Street"
 
-cityName = "Kolkata"
-let stateName;
+let userAge = 22
 
-console.log(typeof());
+var avgAge = 25
+
+age = 29
+
+
+let userName;
+
+console.log(userName)
+
+// console.log(id) //12
+
+// console.log(userAge) //22
+
+// console.log(avgAge) //25
+
+// console.log(age)
+
