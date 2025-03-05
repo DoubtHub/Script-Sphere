@@ -1,10 +1,15 @@
+
 // Arithmetic Operators
 let add = 5 + 2;        // 7
 let sub = 5 - 2;        // 3
 let mul = 5 * 2;        // 10
 let div = 5 / 2;        // 2.5
 let mod = 5 % 2;        // 1
-let exp = 5 ** 2;       // 25
+
+
+let exponent = 3 ** 5
+
+console.log(exponent)
 
 
 let inc = 5; 
@@ -14,7 +19,11 @@ dec--;                  // 4
 
 // Assignment Operators
 let x = 10;
-x += 5;  // x = x + 5
+
+
+x += 5  // x = x + 5
+
+x = x + 5
 x -= 5;  // x = x - 5
 x *= 5;  // x = x * 5
 x /= 5;  // x = x / 5
